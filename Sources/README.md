@@ -11,7 +11,7 @@ We will apply ECDSA signature differential failure analysis and obtain a private
 ---
 
 * Tutorial: https://youtu.be/lfYPcXPzLjE
-* Tutorial: https://cryptodeep.ru/rowhammer-attack
+* Tutorial: https://cryptodeeptech.ru/rowhammer-attack
 
 ---
 
@@ -157,7 +157,7 @@ Privkey = ((((S * K) - Z) * modinv(R,N)) % N)
 ---
 
 * Tutorial: https://youtu.be/lfYPcXPzLjE
-* Tutorial: https://cryptodeep.ru/rowhammer-attack
+* Tutorial: https://cryptodeeptech.ru/rowhammer-attack
 
 ---
 
