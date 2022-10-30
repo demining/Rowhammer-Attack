@@ -9,7 +9,7 @@
 ---
 
 * Tutorial: https://youtu.be/lfYPcXPzLjE
-* Tutorial: https://cryptodeep.ru/rowhammer-attack
+* Tutorial: https://cryptodeeptech.ru/rowhammer-attack
 
 ---
 	
